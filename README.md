@@ -9,5 +9,7 @@ Clone the repo to your Google Colab and run each code snippets after import depe
 To install requirements:
 !pip install transformers
 
-Import transformers classes and functions from the HuggingFace Library on Google Colab.
+Import transformers classes and functions from the HuggingFace Library on Google Colab 
 
+** Results **
+Our code displays the strenght of BERT vs. GPT transformer models on a heatmap.
