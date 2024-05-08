@@ -12,4 +12,4 @@ To install requirements:
 Import transformers classes and functions from the HuggingFace Library on Google Colab 
 
 ** Results **
-Our code displays the strenght of BERT vs. GPT transformer models on a heatmap.
+Our experiment displays the attention patterns of BERT vs. GPT transformer models on a heatmap. The results is based on Color Intensity, Diagonal Patterns, Attention Distribution, and Model Differences.
